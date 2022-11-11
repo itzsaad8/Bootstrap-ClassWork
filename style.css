@@ -1,0 +1,21 @@
+.carousel-bg-color,
+.input-bg-color {
+    background-color: #181c46;
+    color: #fff;
+
+}
+
+.price {
+    color: #e5538b;
+}
+
+.buy-now-button,
+.bg-button {
+    background-image: linear-gradient(to bottom, #564f52 0%, #331b24 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
